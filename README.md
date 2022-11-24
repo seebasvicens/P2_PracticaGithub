@@ -2,3 +2,5 @@
 
 Autor: Sebastià Vicens Oliver
 Fecha: 24/11/2022
+
+Esta línea es añadida por el desarrollador A.
