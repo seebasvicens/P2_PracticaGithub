@@ -4,7 +4,7 @@ import random # Libreria necesaria para crear numeros randoms
 MIN_NUMBER = 0
 MAX_NUMBER = 1000
 
-random.seed(0)  # Fijamos la semilla a 0
+random.seed(10)  # Fijamos la semilla a 0
 
 # Obtenemos los tres números aleatorios que
 # se encuentren entre MIN_NUMBER y MAX_NUMBER
@@ -12,7 +12,7 @@ x = random.randint(MIN_NUMBER, MAX_NUMBER)
 y = random.randint(MIN_NUMBER, MAX_NUMBER)
 z = random.randint(MIN_NUMBER, MAX_NUMBER)
 
-suma = (x + y) + z
+suma = x + (y + z)
 
 # Mostramos el resultado de la suma por pantalla
 print(suma)
