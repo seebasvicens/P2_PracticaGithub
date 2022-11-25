@@ -7,5 +7,6 @@ Esta linea es añadida por el desarrollador B.
 
 Esta línea es añadida por el desarrollador A.
 
-Esta es la fila añadida por A segunda prueba con merge en main.
+Esta es la segunda prueba con merge request en la rama main de B.
 
+Esta es la fila añadida por A segunda prueba con merge en main.

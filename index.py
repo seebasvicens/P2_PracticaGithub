@@ -4,7 +4,7 @@ import random # Libreria necesaria para crear numeros randoms
 MIN_NUMBER = 0
 MAX_NUMBER = 1000
 
-random.seed(10)  # Fijamos la semilla a 0
+random.seed(20)  # Fijamos la semilla a 0
 
 # Obtenemos los tres números aleatorios que
 # se encuentren entre MIN_NUMBER y MAX_NUMBER
