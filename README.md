@@ -7,3 +7,5 @@ Esta linea es añadida por el desarrollador B.
 
 Esta línea es añadida por el desarrollador A.
 
+Esta es la fila añadida por A segunda prueba con merge en main.
+
